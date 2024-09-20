@@ -1,16 +1,22 @@
 ### Hi there 👋
+My name is Leo Kenzley, i'm a technology enthusiast, mainly in web security and cyber security.
+I began my career working for government organizations as a Requirements Analyst, Software Developer, Software Architect, Tech Lead and Software Engineer Specialist.
 
-<!--
-**leokenzley/leokenzley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Public initiative
+- Ministério da Educação (MEC).
+- Ministério do Planejamento (MPO).
+- Secretaria de Educação do Distrito Federal (SEDF).
+- Fundo Nacional de Desenvolvimento da Educação (FNDE).
+- Câmara Legislativa do Distrito Federal (CLDF).
+- Sescoop.
+- Procuradoria-Geral da Fazenda Nacional (PGFN).
 
-Here are some ideas to get you started:
+Private initiative
+- Iteris/Globant Consultoria Alelo (software engineer specialist).
+- Iteris Consultoria Fiserv  (TechLead).
+- Orbia.
+- Intelipost. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:
+mail: leokenzley@gmail.com
+addres: Damianópolis-GO, Brazil.
