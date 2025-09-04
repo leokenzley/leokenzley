@@ -7,13 +7,13 @@ My focus is to build scalable, secure, and maintainable systems applying the bes
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, Kotlin, JavaScript, TypeScript, SQL  
-- **Frameworks & Platforms**: Spring Boot, Spring Cloud, Quarkus, ReactJS, Angular, Keycloak  
-- **Architectures**: Clean Architecture, Hexagonal Architecture, Event-Driven Architecture, Microservices  
-- **Databases**: PostgreSQL, Oracle, MongoDB  
-- **Messaging & Streaming**: Apache Kafka, SQS, Apache Camel  
-- **DevOps & CI/CD**: Maven, Jenkins, Docker, Kubernetes, Azure App Configuration, GitHub Actions  
-- **Security**: OAuth2, JWT, Keycloak, Secure API design  
+- **Languages**: Java, Kotlin, JavaScript, TypeScript, SQL, Python, PHP.  
+- **Frameworks & Platforms**: Spring Boot, Spring Cloud, Quarkus, ReactJS, Angular, Keycloak.  
+- **Architectures**: Clean Architecture, Hexagonal Architecture, Event-Driven Architecture, Microservices.  
+- **Databases**: PostgreSQL, Oracle, MongoDB.  
+- **Messaging & Streaming**: Apache Kafka, SQS, Apache Camel.  
+- **DevOps & CI/CD**: Maven, Jenkins, Docker, Kubernetes, Azure App Configuration, GitHub Actions.  
+- **Security**: OAuth2, JWT, Keycloak, Secure API design.  
 
 ---
 
