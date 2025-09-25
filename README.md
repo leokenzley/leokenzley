@@ -67,7 +67,7 @@ My focus is to build scalable, secure, and maintainable systems applying the bes
 ---
 
 ### 🔹 Concurrency
-[Bank Transactions](https://github.com/leokenzley/bank-transactions)
+- [Bank Transactions](https://github.com/leokenzley/bank-transactions)
 - In this application, pessimistic locking can be applied to ensure that multiple transactions do not simultaneously modify the same account balance. By locking the account record when a transaction begins, other transactions attempting to update the same account are blocked until the first transaction completes. This prevents issues such as insufficient funds errors caused by concurrent withdrawals or transfers. Pessimistic locking provides strong consistency guarantees, ensuring that account balances are correctly updated even under high concurrency scenarios.
 ---
 
